@@ -1022,5 +1022,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 **Built with ❤️ by City Bus Team**  
-**Contact**: [wiame.yousfi22@gmail.com](mailto:wiame.yousfi22@gmail.com)  
-**Repository**: [https://github.com/yousfiwiame/Urban-Transport-System](https://github.com/yousfiwiame/Urban-Transport-System)
+**Contact**: [hiibaalaoui@gmail.com](mailto:hiibaalaoui@gmail.com)  
+**Repository**: [https://github.com/hibaalaoui/Urban-Transport-System](https://github.com/hibaalaoui/Urban-Transport-System)
